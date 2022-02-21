@@ -1,0 +1,15 @@
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (1, 30, 5);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (2, 30, 12);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (3, 56, 5);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (4, 78, 14);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (5, 78, 5);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (6, 2, 18);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (7, 35, 19);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (8, 1, 20);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (9, 5, 20);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (10, 48, 11);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (11, 65, 13);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (12, 28, 13);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (13, 28, 18);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (14, 34, 8);
+INSERT INTO smart_search.users_regions (id, user_id, region_id) VALUES (15, 65, 8);
